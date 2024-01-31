@@ -3,6 +3,6 @@ import Loop from './components/Loop.vue';
 import DataModel from './components/DataModel.vue';
 </script>
 <template>
-  <!-- <Loop></Loop> -->
+  <Loop></Loop>
   <DataModel></DataModel>
 </template>
